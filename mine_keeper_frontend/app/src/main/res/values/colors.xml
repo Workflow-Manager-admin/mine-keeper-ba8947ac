@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#388E3C</color>
+    <color name="secondary">#1976D2</color>
+    <color name="accent">#FFC107</color>
+    <color name="backgroundLight">#F4F4F4</color>
+    <color name="cellShade">#EEEEEE</color>
+    <color name="mineRed">#FFCDD2</color>
+    <color name="flagBlue">#1976D2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
 </resources>

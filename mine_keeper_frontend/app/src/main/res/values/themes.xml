@@ -1,7 +1,8 @@
 <resources>
-    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-        <item name="colorPrimary">#6200EE</item>
-        <item name="colorPrimaryDark">#3700B3</item>
-        <item name="colorAccent">#03DAC5</item>
+    <style name="AppTheme" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:colorBackground">#F4F4F4</item>
+        <item name="colorPrimary">#388E3C</item>
+        <item name="colorSecondary">#1976D2</item>
+        <item name="colorAccent">#FFC107</item>
     </style>
 </resources>
