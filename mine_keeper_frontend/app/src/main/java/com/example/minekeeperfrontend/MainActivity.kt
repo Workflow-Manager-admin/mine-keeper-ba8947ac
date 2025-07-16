@@ -1,3 +1,5 @@
+//
+// Main application package for Mine Keeper frontend mobile app.
 package com.example.minekeeperfrontend
 
 import android.os.Bundle
