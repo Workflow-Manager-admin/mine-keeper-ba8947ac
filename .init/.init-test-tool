@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew test",
+    "working_directory": "/home/kavia/workspace/code-generation/mine-keeper-ba8947ac/mine_keeper_frontend"
+}
